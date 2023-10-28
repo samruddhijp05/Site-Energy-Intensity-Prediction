@@ -1,4 +1,4 @@
-⚡ Project 2: Site Energy Intensity Prediction
+⚡ Site Energy Intensity Prediction ⚡
 
 🧾**Description:** 
 According to a report issued by the International Energy Agency (IEA), the lifecycle of buildings from construction to demolition was responsible for 37% of global energy-related and process-related CO2 emissions in 2020. Yet it is possible to drastically reduce the energy consumption of buildings by a combination of easy-to-implement fixes and state-of-the-art strategies. 
